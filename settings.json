@@ -8,7 +8,7 @@
   "server": {
     "ip": "idkgng-jaZ6.aternos.me",
     "port": 22130,
-    "version": "26.2"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
